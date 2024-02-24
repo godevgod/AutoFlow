@@ -1,3 +1,7 @@
+please donate if you interest please donate
+
+###13w5Hyjc7CzGnCpKte4M4narsTZoEA8QX7
+
 # AutoFlow: Automated Job Management and Tracking System for Real-Time Processing
 
 AutoFlow is designed to streamline and optimize job management processes, offering the ability to create, monitor, and manage tasks through an automated workflow. It responds to specific events or statuses within the system, utilizing modern technologies like Go, atomic.Value for secure state management, and fiber/v2 for creating fast and lightweight web services.
